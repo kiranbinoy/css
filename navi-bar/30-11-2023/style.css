@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: black;
+    color: white;
+height: 60px;
+text-align: center;
+padding: 5px;
+}
+.amazon{
+    color: orange;
+}
+a{
+    margin: 130px;
+}
+#search{
+    background-color: #f08804;
+    color: white;
+    border: none;
+    padding: 1px 10px 1px 10px
+
+}

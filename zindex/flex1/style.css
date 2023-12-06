@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.container{
+   min-height: 80vh;
+    max-width: 130vw;
+    color: rgb(0, 0, 0);
+    background-color: dimgray;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-direction: column;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    flex-flow: column nowrap;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    align-items: center;
+align-items: flex-end;
+align-items: flex-start;
+}
+.box{
+width: 200px;
+height: auto;
+background-color: darkcyan;
+margin: 3px;
+}
